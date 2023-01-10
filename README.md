@@ -1,6 +1,6 @@
 ### Hey! 👨🏼‍💻
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=rsmanuel.rsmanuel)
-- 🌱 I’m currently learning JavaScript, HTML and CSS
+- 👨🏼‍🎓 I’m currently learning Java, C# and JavaScript
 
 
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=rsmanuel&count_private=true&show_icons=true&hide=contribs)
